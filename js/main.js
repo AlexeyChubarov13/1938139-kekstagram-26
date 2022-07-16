@@ -9,6 +9,4 @@ randomNumber(0, 2);
 const stringLength = function(stringnumber, maxstring) {
   return stringnumber.length <= maxstring;
 };
-
-
 stringLength('Привет мир', 7);
